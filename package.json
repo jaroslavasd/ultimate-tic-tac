@@ -29,5 +29,8 @@
 		"artificial",
 		"intelligence",
 		"computer"
-	]
+	],
+	"devDependencies": {
+		"netlify-cli": "^12.2.10"
+	}
 }
