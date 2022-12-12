@@ -1,7 +1,5 @@
 # example netlify.toml
 [build]
-  command = "node index.js"
-  port = 3000
   functions = "netlify/functions"
   publish = "."
 
