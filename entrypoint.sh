@@ -1,3 +1,4 @@
 #!/bin/sh -l
 
-npm start
+# npm start
+echo "hello"
